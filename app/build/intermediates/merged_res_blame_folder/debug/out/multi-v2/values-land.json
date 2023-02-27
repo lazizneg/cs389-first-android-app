@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.myfirstapp-mergeDebugResources-15:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\laziz\\.gradle\\caches\\transforms-3\\6210a304eaa955ffc812c493f70bae6e\\transformed\\appcompat-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\laziz\\OneDrive\\Desktop\\MyFirstApp\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endColumns": "41",
+                        "endOffsets": "301"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\laziz\\.gradle\\caches\\transforms-3\\7c9c32ceb8768bd39784f2441440f294\\transformed\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "306",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "473"
+                    }
+                }
+            ]
+        }
+    ]
+}
